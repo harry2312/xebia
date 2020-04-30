@@ -1,0 +1,12 @@
+.search {
+  width: 50%;
+  margin: 1rem auto;
+}
+.planets {
+  width: 50%;
+  margin: 1rem auto;
+}
+.planet {
+  border: 1px solid;
+  padding: 10px 2px;
+}

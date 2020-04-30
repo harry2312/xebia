@@ -1,0 +1,8 @@
+export const LOG_OUT = "LOG_OUT";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+export const LOGIN_PENDING = "LOGIN_PENDING";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";
+export const SEARCH_ERROR = "SEARCH_ERROR";
+export const SEARCH_PENDING = "SEARCH_PENDING";
+export const SEARCH_SUCCESS = "SEARCH_SUCCESS";
